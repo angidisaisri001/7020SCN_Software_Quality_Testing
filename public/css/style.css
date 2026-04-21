@@ -140,7 +140,6 @@ body {
     padding: 40px;
 }
 
-/* Mobile Fixes for Home Page */
 @media (max-width: 991.98px) {
     .hero {
         text-align: center;
